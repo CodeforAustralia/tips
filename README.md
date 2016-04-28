@@ -2,7 +2,7 @@
 Tips / information sharing / onboarding stuff for CfA
 
 ## Create a jekyll blog
-1. Create a new **blank** repo, something like [name-of-your-organisation]-blog
+1. Create a new **blank** repo, use a reponame like [name-of-your-organisation]-blog
 2. On your machine do a `git clone https://github.com/CodeforAustralia/[reponame].git`
 2. Create an orphaned `gh-pages` branch via `git checkout --orphan gh-pages`
 3. Download a zip of the [jekyll-now](https://github.com/barryclark/jekyll-now) repo
