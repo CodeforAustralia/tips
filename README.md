@@ -1,4 +1,4 @@
-# tips
+# TIPS / KNOWLEDGE / SHARING FOR THE WIN
 Tips / information sharing / onboarding stuff for CfA
 
 ## Create a jekyll blog
