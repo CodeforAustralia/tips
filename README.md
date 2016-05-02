@@ -15,3 +15,4 @@ Tips / information sharing / onboarding stuff for CfA
 ## DigitalOcean
 * [Adding a SSH Key](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
 * [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/)
+* [Configure dokku nginx](http://dokku.viewdocs.io/dokku/nginx/#default-site)
