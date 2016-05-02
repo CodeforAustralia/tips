@@ -11,3 +11,7 @@ Tips / information sharing / onboarding stuff for CfA
 6. Your blog should be now available at http://codeforaustralia.github.io/[name-of-your-repo]
 7. Map a domain / subdomain to your github.io url 👍🏽
 8. Have a beer / wine / coffee and chill 🍻
+
+## DigitalOcean
+* [Adding a SSH Key](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
+* [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/)
