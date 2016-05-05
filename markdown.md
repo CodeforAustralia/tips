@@ -37,6 +37,13 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
   This is my javascript function
 }
 `
+##this is Alvaro's contribution
+I do monkey things at Code for Australia
+I just got a new standup desk which I'm excited about
+I'm learning how to use github
+* [Code for Australia](http://www.codeforaustralia.org/)
+* [Code for Victoria](http://www.codeforvictoria.org/)
+This is the best contribution you've seen
 
 ## Links
 * [Markdown overview](http://daringfireball.net/projects/markdown/syntax)
