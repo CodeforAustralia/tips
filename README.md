@@ -1,6 +1,9 @@
 # TIPS / KNOWLEDGE / SHARING FOR THE WIN
 Tips / information sharing / onboarding stuff for CfA
 
+## Basics
+* [GIT intro](./git-intro.md)
+
 ## Create a jekyll blog
 1. Create a new **blank** repo, use a reponame like [name-of-your-organisation]-blog
 2. On your machine do a `git clone https://github.com/CodeforAustralia/[reponame].git` inside a folder of your choice
