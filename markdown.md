@@ -13,14 +13,12 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 `* this
 * is
 * a
-* list of UNORDERED items
-`
+* list of UNORDERED items`
 
 `1. this
 2. is
 3. a
-4. list of ORDERED items
-`
+4. list of ORDERED items`
 
 `---------------------------------------` is a horizontal line
 
@@ -32,7 +30,7 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 
 `![This is an image](this is the url of the image)`
 
-![Elmo](http://gph.is/1hdXxKo)
+![Elmo](http://i.giphy.com/iPTTjEt19igne.gif)
 
 `function thisFunction(){
   This is my javascript function
