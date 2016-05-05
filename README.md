@@ -2,6 +2,7 @@
 Tips / information sharing / onboarding stuff for CfA
 
 ## Basics
+* [Markdown intro](./markdown.md)
 * [GIT intro](./git-intro.md)
 
 ## Create a jekyll blog

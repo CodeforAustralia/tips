@@ -22,8 +22,6 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 4. list of ORDERED items
 `
 
-asdfasfas
-
 `---------------------------------------` is a horizontal line
 
 `[This is a markdown link](this is the url for the link)`
@@ -33,29 +31,13 @@ asdfasfas
 `**this is text in bold**`
 
 `![This is an image](this is the url of the image)`
+
 ![Elmo](http://gph.is/1hdXxKo)
 
 `function thisFunction(){
   This is my javascript function
 }
 `
-##this is Alvaro's contribution
-I do monkey things at Code for Australia
-I just got a new standup desk which I'm excited about
-I'm learning how to use github
-* [Code for Australia](http://www.codeforaustralia.org/)
-* [Code for Victoria](http://www.codeforvictoria.org/)
-This is the best contribution you've seen
-
 ## Links
 * [Markdown overview](http://daringfireball.net/projects/markdown/syntax)
 * [dilinger](http://dillinger.io) - online markdown editing + conversion
-
-## Info about Jake Lindsay
-### I do everything that Alvaro doesn't do
-
-Here is some *more information* about myself located [portfolio](htt://jacoblindsay.com.au)
-* I work on [Code for Australia](http://codeforaustralia.org)
-* And this one [Creative Suburbs](http://creativesuburbs.com)
-
-
