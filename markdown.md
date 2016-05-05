@@ -1,7 +1,8 @@
 # Markdown
 A simplified document syntax. Markdown provides an easy to read and easy to write way to create a document. Markdown documents are written in plain text with tags and basic formatting instructions, it uses punctuation characters that closely resemble the intended output and the document can then be converted to various formats (.html, .word, .odt).
 
-## Basics
+## Basic
+
 `# This is a level 1 heading`
 `## This is a level 2 heading`
 
@@ -31,6 +32,11 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 
 `![This is an image](this is the url of the image)`
 ![Elmo](http://gph.is/1hdXxKo)
+
+`function thisFunction(){
+  This is my javascript function
+}
+`
 
 ## Links
 * [Markdown overview](http://daringfireball.net/projects/markdown/syntax)
