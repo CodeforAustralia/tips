@@ -25,6 +25,10 @@ Within your repository, git has 'branches' - alternate versions of the source co
 Cloning allows you to take a copy of an existing github repository, a copy of the repository is made on your local machine and you can start making changes.
 `git clone <url of the repository>`
 
+### Pulling in changes
+Use git pull, to synchronize changes from other contributors back into your local repository
+`git pull`
+
 ### Tracking changes
 
 ### Contributing changes back into the repo
