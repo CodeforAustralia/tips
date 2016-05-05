@@ -41,3 +41,12 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 ## Links
 * [Markdown overview](http://daringfireball.net/projects/markdown/syntax)
 * [dilinger](http://dillinger.io) - online markdown editing + conversion
+
+## Info about Jake Lindsay
+### I do everything that Alvaro doesn't do
+
+Here is some *more information* about myself located [portfolio](htt://jacoblindsay.com.au)
+* I work on [Code for Australia](http://codeforaustralia.org)
+* And this one [Creative Suburbs](http://creativesuburbs.com)
+
+
