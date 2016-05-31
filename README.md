@@ -23,7 +23,7 @@ Tips / information sharing / onboarding stuff for CfA
 * [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/)
 * [Dokku docs](http://dokku.viewdocs.io/dokku~v0.4.2/application-deployment/)
 * [Dokku deploying](http://dokku.viewdocs.io/dokku~v0.4.2/application-deployment/#deploying-to-subdomains)
-* [Dokku SSL](http://morrisjobke.de/2016/02/21/Dokku-Easy-way-to-deploy-web-apps/)
+* [Letsencrypt ssl](http://revelry.co/deploy-free-ssl-lets-encrypt-dokku/) | [Dokku SSL](http://morrisjobke.de/2016/02/21/Dokku-Easy-way-to-deploy-web-apps/)
 * [Configure dokku nginx](http://dokku.viewdocs.io/dokku/nginx/#default-site)
 * [dokku mongo](https://github.com/dokku/dokku-mongo) | [dokku + mongodb setup](https://gist.github.com/fizerkhan/029617fd75cdb167db7c)
 * [dokku vm's < 1GB](http://dokku.viewdocs.io/dokku/advanced-installation/#vms-with-less-than-1gb-of-memory)
