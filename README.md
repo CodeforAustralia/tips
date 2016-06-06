@@ -20,7 +20,7 @@ Tips / information sharing / onboarding stuff for CfA
 * [Adding a SSH Key](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
 
 ## Dokku - heroku style deployments
-* [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/)
+* [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/) | [Adding ssh key for dokku](https://www.digitalocean.com/community/questions/dokku-add-new-ssh-key)
 * [Dokku docs](http://dokku.viewdocs.io/dokku~v0.4.2/application-deployment/)
 * [Dokku deploying](http://dokku.viewdocs.io/dokku~v0.4.2/application-deployment/#deploying-to-subdomains)
 * [Letsencrypt ssl](http://revelry.co/deploy-free-ssl-lets-encrypt-dokku/) | [Dokku SSL](http://morrisjobke.de/2016/02/21/Dokku-Easy-way-to-deploy-web-apps/)
