@@ -27,3 +27,14 @@ Tips / information sharing / onboarding stuff for CfA
 * [Configure dokku nginx](http://dokku.viewdocs.io/dokku/nginx/#default-site)
 * [dokku mongo](https://github.com/dokku/dokku-mongo) | [dokku + mongodb setup](https://gist.github.com/fizerkhan/029617fd75cdb167db7c)
 * [dokku vm's < 1GB](http://dokku.viewdocs.io/dokku/advanced-installation/#vms-with-less-than-1gb-of-memory)
+
+## Dev tools 
+* [Astrum](http://astrum.nodividestudio.com/): document your web pattern library (think Bootstrap's doc webpage, but for your CSS)
+* [Perftool](http://performance-tool.devbridge.com/): collect & display performance stats for your web project
+
+## Design tools
+* [colordrop.io](colordrop.io/): find nice colour palettes
+* [Principal](http://principleformac.com/): animate prototypes 
+
+## General tools
+* [Gitify](http://gitify.io/): get Github notifications on Mac menubar
