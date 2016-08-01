@@ -5,7 +5,8 @@ Tips / information sharing / onboarding stuff for CfA
 * [Markdown intro](./markdown.md)
 * [GIT intro](./git-intro.md) | [Setting up git on a ubuntu server](https://www.linux.com/learn/how-run-your-own-git-server)
 
-## Create a jekyll blog
+## Blogging
+### Jekyll
 1. Create a new **blank** repo, use a reponame like [name-of-your-organisation]-blog
 2. On your machine do a `git clone https://github.com/CodeforAustralia/[reponame].git` inside a folder of your choice
 2. Create an orphaned `gh-pages` branch via `git checkout --orphan gh-pages`
