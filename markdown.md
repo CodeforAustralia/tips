@@ -38,4 +38,5 @@ A simplified document syntax. Markdown provides an easy to read and easy to writ
 `
 ## Links
 * [Markdown overview](http://daringfireball.net/projects/markdown/syntax)
+* [Mastering markdown](https://roachhd.gitbooks.io/master-markdown/content/index.html)
 * [dilinger](http://dillinger.io) - online markdown editing + conversion
