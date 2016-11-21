@@ -19,6 +19,8 @@ Tips / information sharing / onboarding stuff for CfA
 
 ## DigitalOcean
 * [Adding a SSH Key](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
+* [Add swap space for boxes 512MB of RAM](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04)
+  fixes issues with build processes and other tools like npm unexpectadely crashing
 
 ## Dokku - heroku style deployments
 * [Setting up dokku](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean/) | [Adding ssh key for dokku](https://www.digitalocean.com/community/questions/dokku-add-new-ssh-key)
